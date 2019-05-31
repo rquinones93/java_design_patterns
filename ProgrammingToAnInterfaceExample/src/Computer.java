@@ -1,3 +1,4 @@
+package ProgrammingToAnInterfaceExample.src;
 // Interface we're programming to
 interface displayModule {
   public void display ();
